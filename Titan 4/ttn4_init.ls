@@ -33,7 +33,7 @@ AUTO_SINGULARITY_HEADER;
    8:  R[14:End Blast SPD]=115    ;
    9:  R[100:Blast 1 fills]=0    ;
   10:  R[4:Floor pass secs]=10    ;
-  11:   ;
+  11:  R[15:Trolley INC]=50     ;
   12:  R[20:Cont Length]=12192    ;
   13:  R[21:End Length]=2440    ;
   14:   ;

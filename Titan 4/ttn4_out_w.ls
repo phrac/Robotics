@@ -32,7 +32,7 @@ AUTO_SINGULARITY_HEADER;
    7:J P[5] 30% CNT75    ;
    8:J P[12] 30% CNT R[12:CNTSPD]    ;
    9:J P[3:NW Perch] 50% FINE Offset,PR[1:Trolley Offset]    ;
-  10:  WAIT    .25(sec) ;
+  10:   ;
   11:  CALL BLAST_ON_1    ;
   12:   ;
   13:  LBL[10] ;

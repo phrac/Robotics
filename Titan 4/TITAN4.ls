@@ -40,7 +40,7 @@ AUTO_SINGULARITY_HEADER;
   15:  CALL TTN4_IN_W    ;
   16:   ;
   17:  CALL TTN4_IN_S    ;
-  18:  WAIT  10.00(sec) ;
+  18:  WAIT  5.00(sec) ;
   19:  CALL TTN4_OUT_E    ;
   20:   ;
   21:  CALL TTN4_OUT_N    ;
